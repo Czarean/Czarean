@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Czarean a Network Engineer that loves to learn from others, and collaborate with other engineers!
+- 👋 Hi, I’m @Czarean a Network Engineer that loves to learn from others, and collaborate with other Engineers!
 - 👀 I’m interested in Network Architechture, Automation and Security
 - 🌱 I’m currently learning ______________
 - 💞️ I’m looking to collaborate on Network Engineering Projects
