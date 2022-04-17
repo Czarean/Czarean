@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Czarean
 - 👀 I’m interested in Network Architechture, Automation and Security
-- 🌱 I’m currently learning Nornir, Python and SD-WAN
-- 💞️ I’m looking to collaborate on Network Automation
+- 🌱 I’m currently learning ______________
+- 💞️ I’m looking to collaborate on Network Engineering Projects
 - 📫 How to reach me: Via Email cesar.anayar@gmail.com
 
 <!---
