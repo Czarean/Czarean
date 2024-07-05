@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Czarean a Network Engineer that loves to learn from others, and collaborate with other Engineers!
-- 👀 I’m interested in WEB3 and Smart Contract development
-- 🌱 I’m currently learning MOTOKO Programing Language from ICP/Dfinity
-- 💞️ I’m looking to collaborate on Web3, Smart Contract Projects. NFTs.
+- 👀 I’m interested in Blockchain and Smart Contract development, NFTs, DAO and dApps.
+- 🌱 I’m currently learning Blockchain MOTOKO Programing Language built for ICP/Dfinity
+- 💞️ I’m looking to collaborate on Web3, Smart Contract Projects, dAPPs and NFTs.
 - 📫 How to reach me: https://x.com/IC_Pirate
 
 <!---
