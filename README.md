@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Czarean a Network Engineer, currently working on a Motoko dApp to help my local school, If all goes well, I will pontentially be onboarding 20+ new users Identitys onto the Internet Computer and Openchat echosystem! Looking forward to finish my project and contribute to the ICP Network!
-- 👀 I’m interested in Blockchain, AI, and Smart Contract development, NFTs, DAO, dApps and Frontend and Web Development.
-- 🌱 I’m currently learning Frontend, Web Developmnet, and Blockchain "Motoko" Programing Language built by Dfinity for the ICP Internet Computer Protocol Blockchain!
-- 💞️ I’m looking to collaborate on Web3, Smart Contract Projects, dAPPs and NFTs.
+- 👋 Hi, I’m Cesar an experinced Sr. Network Engineer, and AI Integration Architect.
+- ✨ I own IntegrAI Ltd an AI Automation Solutions Company: https://linktr.ee/IntegrAI_Ltd
+- 👀 I’m interested in AI, and Blockchain Technologies.
+- 💞️ I’m looking to collaborate on any AI & Automation project
 - 📫 How to reach me: https://x.com/IC_Pirate
+- ✨ If you have any friend or know any business that is looking to automate and optimise their daily operations thorugh AI, you can send them my way.
+- 📫 business email: contact@integr-ai.com
 
 <!---
 Czarean/Czarean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
